@@ -1,2 +1,10 @@
-User, Transaction
-Kel, Goodburger HOME OF THE GOODBURGER
+Date,Description,Amount,Retailer
+2024-04-25,Starbucks,-4.25,Starbucks
+2024-04-26,Apple Music,-9.99,Apple
+2024-04-27,Paycheck,1200.00,Employer
+2024-04-28,ATM Withdrawal,-20.00,ATM
+2024-04-28,GOOD BURGER: HOME OF THE GOODBURGER.,-13.50,Kel
+2024-04-29,Grocery Outlet,-84.72,Grocery Outlet
+2024-04-30,GOOD BURGER: HOME OF THE GOODBURGER.,-7.99,Kel
+2024-05-01,Spotify,-10.99,Spotify
+
